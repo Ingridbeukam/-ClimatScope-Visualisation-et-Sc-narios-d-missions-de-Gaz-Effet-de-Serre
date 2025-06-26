@@ -58,13 +58,6 @@ Sources :
 
 ---
 
----
-
-## 🚀 Comment contribuer ?
-
-1. Forkez le dépôt
-2. Proposez des améliorations (data source, modèles, visualisation)
-3. Ouvrez une *pull request* si vous avez des corrections ou ajouts
 
 ---
 
